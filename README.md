@@ -23,8 +23,7 @@ gtkwave CLA_4bit.vcd
 ![image](https://github.com/user-attachments/assets/4e49f528-41d8-4d9b-bfd6-b4255f0f4679)
 
 ### Team Members:  
-- Tanay Agarwal (PES2UG22CS615)  
 - Suhas Venkata Karamalaputti (PES2UG22CS590)  
 - Suhit Hegde (PES2UG22CS591)  
 - Suryansh Sharma (PES2UG22CS604)
-
+- Tanay Agarwal (PES2UG22CS615)  
